@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.dgreenheck.openfracture": "file:C:/Users/C3lin/Downloads/OpenFracture-main/OpenFracture-main",
     "com.unity.animation.rigging": "1.2.1",
     "com.unity.collab-proxy": "2.7.1",
     "com.unity.ide.rider": "3.0.25",

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 318a838137fa0e8408c5a3e2f117d1f9
+guid: c16e65c29d0750344be957f2d32f8742
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -8,22 +8,22 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Glass1
-    second: {fileID: 2100000, guid: 86defc5a74cd2994197c9811c54c4c7e, type: 2}
+    second: {fileID: 2100000, guid: 5802449fd93e59e4b8b1053ad8ef4378, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Glass2
-    second: {fileID: 2100000, guid: 411c6584a2c9bc44997e11294e918b31, type: 2}
+    second: {fileID: 2100000, guid: b79d836459c3d7e41b542385991b42b6, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Light
-    second: {fileID: 2100000, guid: 2725d24d1cdb2594c974cc2343cde95a, type: 2}
+    second: {fileID: 2100000, guid: 66ad513d943c82b4bb7c97bffd34edd8, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Pistol
-    second: {fileID: 2100000, guid: 569625ba3af0feb4d946a5f5d8a85af9, type: 2}
+    second: {fileID: 2100000, guid: e3ddd22454fbdd64db6a45303c7aa4dc, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -55,7 +55,7 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 0.1
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -110,14 +110,14 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 0.1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
